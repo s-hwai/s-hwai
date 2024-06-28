@@ -26,4 +26,4 @@
 
 ![신짱구](https://imgur.com/zT4Q860)
 
-![신짱구](https://imgur.com/jW8bbFf)
+![강아지](https://i.imgur.com/jW8bbFf.png)
