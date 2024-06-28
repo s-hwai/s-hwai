@@ -4,9 +4,11 @@
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white) 
 
 **🛠️ Infra and Tools**
+
 ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/Gcp-000000.svg?&style=for-the-badge) 
 
 # 제목1
